@@ -22,7 +22,7 @@ body{
 .text-center{
 	color:#fff;
 	text-transform:uppercase;
-    font-size: 23px;
+    font-size: 60px;
     margin: -50px 0 80px 0;
     display: block;
     text-align: center;
@@ -54,8 +54,8 @@ body{
   border-bottom:1px solid #555;
   background:transparent;
   width:100%;
-  padding:8px 0 5px 0;
-  font-size:16px;
+  padding:15px 0 5px 0;
+  font-size:36px;
   color:#fff;
 }
 .input-container input:focus{
@@ -79,7 +79,7 @@ body{
   color: #fff;
   cursor: pointer;
   font-family: "Akzidenz Grotesk BQ Medium", -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 16px;
+  font-size: 40px;
   font-weight: 400;
   outline: none;
   outline: 0;
